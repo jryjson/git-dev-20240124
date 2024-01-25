@@ -3,6 +3,9 @@ h1{
     color: red;
     font-size: 40px;
 }
+h2{
+	font-size: 30px;
+}
 p{
     color: orange;
     font-size: 14 px;
